@@ -5,16 +5,22 @@
 # Site
 title: DevPulse
 subtitle: In theory, everything works.
-description:
+description: In theory, everything works.
 author: Junaid Younus
+author_title: 'Mobile App Developer'
+avatar: css/images/junaid-avatar.png
+location: 'West Yorkshire, UK'
+follow: https://github.com/jyounus/
+email: # Your email (Used to show Gravatar).
 language: en
 timezone: Europe/London
+since: 2016 # The start year showing in your copyright section.
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.devpulse.co.uk
 root: /
-permalink: :year/:month/:day/:title/
+permalink: posts/:year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
@@ -40,7 +46,6 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: true
   tab_replace:
 
 # Category & Tag
@@ -57,13 +62,22 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 10
+per_page: 6
 pagination_dir: page
 
 # Extensions
-## Plugins: http://hexo.io/plugins/
-## Themes: http://hexo.io/themes/
-theme: landscape
+## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
+## Themes: https://github.com/hexojs/hexo/wiki/Themes
+theme: icarus
+
+# Disqus
+# disqus_shortname: hexo-theme-icarus
+
+# DuoShuo
+# duoshuo_shortname: hexo-theme-icarus
+
+# Swiftype
+# swiftype_install_key: XXX_XXXXXXXXXXXXXXXX
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
