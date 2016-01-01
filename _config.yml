@@ -65,6 +65,12 @@ time_format: HH:mm:ss
 per_page: 6
 pagination_dir: page
 
+# RSS Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes

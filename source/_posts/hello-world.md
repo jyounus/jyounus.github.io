@@ -1,37 +1,5 @@
-title: Hello World
+title: Hello World!
 ---
-Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Insert generic "New Year, New Me" here. Just kidding, hopefully this time I will get the chance to post more frequently! :D 
 
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](http://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](http://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](http://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](http://hexo.io/docs/deployment.html)
+I decided to move from WordPress to [Hexo.io](https://hexo.io/), which is a small NodeJS based blogging framework. I can now write posts in Markdown and generate static HTMLs, which I decided to host on Github. No need to pay for a DigitalOcean server anymore. Genius! :D
