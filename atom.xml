@@ -4,7 +4,7 @@
   <subtitle><![CDATA[In theory, everything works.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.devpulse.co.uk/"/>
-  <updated>2016-01-01T21:49:46.000Z</updated>
+  <updated>2016-01-26T19:12:27.000Z</updated>
   <id>http://www.devpulse.co.uk/</id>
   
   <author>
@@ -13,6 +13,21 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Life as a tech lead]]></title>
+    <link href="http://www.devpulse.co.uk/posts/2016/01/26/life-as-a-tech-lead/"/>
+    <id>http://www.devpulse.co.uk/posts/2016/01/26/life-as-a-tech-lead/</id>
+    <published>2016-01-26T19:12:27.000Z</published>
+    <updated>2016-01-26T19:12:27.000Z</updated>
+    <content type="html"><![CDATA[<p>I’ve been working with my current employer for almost 2 years. I joined as a mobile app developer and was promoted to a senior developer and now tech lead, in a relatively short period of time. It’s been quite a crazy journey. I went from having little responsibility to managing a client who’s yearly turnover is billions of dollars! I guess I must be doing something right if my current employer has so much trust in me lol.</p>
+<p>It’s hard, it’s definitely outside of my comfort zone, but it has to be done.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>I’ve been working with my current employer for almost 2 years. I joined as a mobile app developer and was promoted to a senior developer ]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Why Sitting Is Bad For You]]></title>
